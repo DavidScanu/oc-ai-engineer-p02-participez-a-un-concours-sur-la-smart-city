@@ -1,0 +1,6 @@
+jupyterlab
+notebook
+voila
+pandas
+numpy
+matplotlib
