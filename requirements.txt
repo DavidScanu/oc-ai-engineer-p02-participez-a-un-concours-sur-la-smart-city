@@ -4,3 +4,4 @@ voila
 pandas
 numpy
 matplotlib
+geopandas
