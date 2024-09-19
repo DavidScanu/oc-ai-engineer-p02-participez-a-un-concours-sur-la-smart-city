@@ -17,5 +17,5 @@ Etudiant : *David Scanu* - [Parcours "AI Engineer"](https://openclassrooms.com/f
 ## 📦 Livrables 
 
 - [Présentation Google Slide](https://docs.google.com/presentation/d/1TzNcTbaOVCX6HhP3kOHH32u8N_h_OE4TKmEYd-nQ1Dk/edit?usp=sharing)
-- [Dépôt GitHub](https://github.com/DavidScanu/oc-projet-02-smartcity) 
 - [Notebook Colab](https://colab.research.google.com/drive/1tmBcztJbx7387scT6f4ylLVcVgoWL1mJ?usp=sharing)
+- [Dépôt GitHub](https://github.com/DavidScanu/oc-projet-02-smartcity) 
