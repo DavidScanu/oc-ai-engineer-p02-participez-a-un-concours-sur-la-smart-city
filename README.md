@@ -2,7 +2,9 @@
 
 # 🌳🗼 Projet 2 - Participez à un concours sur la Smart City
 
-Etudiant : *David Scanu* - [Parcours "AI Engineer"](https://openclassrooms.com/fr/paths/795-ai-engineer)
+🎓 OpenClassrooms - Parcours : [AI Engineer](https://openclassrooms.com/fr/paths/795-ai-engineer) | 👋 *Etudiant* : [David Scanu](https://www.linkedin.com/in/davidscanu14/)
+
+---
 
 ## 📝 Mission et contexte
 
