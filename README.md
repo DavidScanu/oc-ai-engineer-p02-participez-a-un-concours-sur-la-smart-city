@@ -1,6 +1,6 @@
 ![OpenClassrooms Banner Projet 2](https://raw.githubusercontent.com/DavidScanu/oc-ai-engineer-p02-participez-a-un-concours-sur-la-smart-city/refs/heads/main/images/oc-banner-project-02-1660.png)
 
-# 🌳🗼 Projet 2 - Participez à un concours sur la Smart City
+# Projet 2 - Participez à un concours sur la Smart City
 
 > 🎓 OpenClassrooms - Parcours : [AI Engineer](https://openclassrooms.com/fr/paths/795-ai-engineer) | 👋 *Etudiant* : [David Scanu](https://www.linkedin.com/in/davidscanu14/)
 
