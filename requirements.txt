@@ -1,3 +1,4 @@
+ipykernel
 jupyterlab
 notebook
 voila
@@ -5,3 +6,6 @@ pandas
 numpy
 matplotlib
 geopandas
+seaborn
+statsmodels
+scikit-learn
